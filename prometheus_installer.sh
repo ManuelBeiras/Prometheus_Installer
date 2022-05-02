@@ -6,7 +6,6 @@
 ##        If the installation of all components is done on the same machine                            ##
 ##        a fully operational version remains. If installed on different machines                      ##
 ##        it is necessary to modify the configuration manually.                                        ##
-##        Fully automatic installation only requires a password change at the end if you want.         ##
 ##                                                                                                     ##
 ##Authors:                                                                                             ##
 ##			Manuel José Beiras Belloso																   ##
