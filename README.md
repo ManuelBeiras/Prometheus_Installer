@@ -3,7 +3,7 @@
 Download and convert to executable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ManuelBeiras/Grafana_Installer/main/prometheus_installer.sh
+curl -O https://raw.githubusercontent.com/ManuelBeiras/Prometheus_Installer/main/prometheus_installer.sh
 chmod +x prometheus_installer.sh
 ```
 Execute:
